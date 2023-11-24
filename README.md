@@ -1,4 +1,4 @@
-# RobotGriddy
+# RobotGridSearch
 This program is a robot that navigates a grid using a depth-first algorithm.
 I have attempted to complete all six stages.
 
